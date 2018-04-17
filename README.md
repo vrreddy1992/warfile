@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/soabase/exhibitor.svg?branch=master)](https://travis-ci.org/soabase/exhibitor) [![Join the chat at https://gitter.im/soabase/exhibitor](https://badges.gitter.im/soabase/exhibitor.svg)](https://gitter.im/soabase/exhibitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # IMPORTANT NOTE
@@ -41,3 +42,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
 implied. See the License for the specific language governing permissions and limitations under the
 License.
+=======
+# warfile
+>>>>>>> 9b3732256efac94ad8d71f9e034d2826a8a3af8a
